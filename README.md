@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **FINDIN A WAY TO SURVIVE**
+
 <!--
 **federicoiosue/federicoiosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
